@@ -2,7 +2,7 @@
 ------------------
 ## Estou no primeiro periodo da faculdade do Senac PE 
 ------------------
-Formaçõo
+### 🌻 Sobre mim 
 
 Sou formada em TI pelo Senac também 
 
