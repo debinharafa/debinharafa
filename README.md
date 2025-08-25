@@ -4,10 +4,11 @@
 ------------------
 ### 🌻 Sobre mim 
 
-Sou formada em TI pelo Senac também 
+Sou formada em TI pelo Senac também. 
 
 ------------------
 
 ![Giff fofo ](https://c.tenor.com/R74gdS_SrRYAAAAC/tenor.gif)
+
 
 
